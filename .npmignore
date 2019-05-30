@@ -1,4 +1,5 @@
 src
 .editorconfig
+.idea
 tsconfig.json
 yarn.lock
