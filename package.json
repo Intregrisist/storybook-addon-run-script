@@ -4,7 +4,8 @@
   "author": "Daniel Flores",
   "license": "MIT",
   "scripts": {
-    "build": "tsc -b"
+    "build": "tsc -b",
+    "publish": "npm publish"
   },
   "devDependencies": {
     "typescript": "^3.5.1"
