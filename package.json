@@ -1,8 +1,12 @@
 {
   "name": "storybook-addon-run-script",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Daniel Flores",
   "license": "MIT",
+  "keywords": [
+    "addon",
+    "storybook"
+  ],
   "scripts": {
     "build": "tsc -b",
     "publish": "npm publish"
