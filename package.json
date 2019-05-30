@@ -1,0 +1,12 @@
+{
+  "name": "storybook-addon-run-script",
+  "version": "0.1.0",
+  "author": "Daniel Flores",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
