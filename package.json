@@ -8,8 +8,7 @@
     "storybook"
   ],
   "scripts": {
-    "build": "tsc -b",
-    "publish": "npm publish"
+    "build": "tsc -b"
   },
   "devDependencies": {
     "typescript": "^3.5.1"
