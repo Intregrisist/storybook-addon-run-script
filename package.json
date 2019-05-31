@@ -1,8 +1,16 @@
 {
   "name": "storybook-addon-run-script",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Daniel Flores",
   "license": "MIT",
+  "homepage": "https://github.com/Intregrisist/storybook-addon-run-script",
+  "bugs": {
+    "url": "https://github.com/Intregrisist/storybook-addon-run-script/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Intregrisist/storybook-addon-run-script.git"
+  },
   "keywords": [
     "addon",
     "storybook"
