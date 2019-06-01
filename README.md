@@ -30,7 +30,7 @@ import Component from './component.html';
 
 const runScript = `console.log('Hello World');`;
 
-storiesOf('Addon|Centered', module)
+storiesOf('MyComponent', module)
   .addDecorator(withRunScript(runScript))
   .add('default', () => Component);
 
@@ -74,7 +74,7 @@ import Component from './component.html';
 // The following imported file will be imported as a string
 import runScript from './component.runscript.js';
 
-storiesOf('Addon|Centered', module)
+storiesOf('MyComponent', module)
   .addDecorator(withRunScript(runScript))
   .add('default', () => Component);
 
